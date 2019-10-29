@@ -1,0 +1,9 @@
+app:
+  port: 4002
+
+db:
+  host: 127.0.0.1
+  port: 3306
+  schema: pleasant_perfect_dev
+  username: "user"
+  password: "pleasant1234"
